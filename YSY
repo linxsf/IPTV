@@ -4,6 +4,8 @@
 凤凰香港,http://60.165.170.77:24333/hls/67/index.m3u8
 凤凰中文 高清,https://live.rxip.sc96655.com/live/test1_4000.m3u8
 凤凰资讯 高清,https://live.rxip.sc96655.com/live/test2_4000.m3u8
+翡翠台HD,http://49.235.110.121:9090/daili/gudo.php?id=fcthd
+明珠台HD,http://49.235.110.121:9090/daili/gudo.php?id=mzthd
 CCTV-1 综合 高清,https://live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV-5 体育 高清,https://live.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
 CCTV-6 电影 高清,https://live.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
@@ -12,12 +14,40 @@ CCTV-6 电影 高清,https://live.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
 四川经济 高清,https://live.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
 四川新闻 高清,https://live.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
 四川影视文艺1 高清,https://live.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-四川影视文艺2 高清,http://115.223.11.212:6480/live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-四川影视文艺3,http://api2.52tb.xyz/info?id=601&token=20230405tndmhg
-V6四川影视文艺4,http://tv.328326.com/iptv/sxg.php?id=SCTV-5-scysH265_4000
+四川影视文艺2 高清,http://49.235.110.121:9090/daili/小果.php?id=SCTV-5-scysH265_4000&Cf.m3u8
+四川影视文艺3 高清,http://115.223.11.212:6480/live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
+四川影视文艺4,http://api2.52tb.xyz/info?id=601&token=20230405tndmhg
+V6四川影视文艺5,http://tv.328326.com/iptv/sxg.php?id=SCTV-5-scysH265_4000
 四川影视文艺频道K,http://223.87.160.11:55555/udp/239.11.0.77:5140
 四川峨嵋电影1,http://115.223.11.212:6480/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8
-v6四川峨嵋电影2,http://tv.328326.com/iptv/sxg.php?id=emdygqH265_4000
+四川峨嵋电影2,http://49.235.110.121:9090/daili/小果.php?id=emdygqH265_4000&Cf.m3u8
+四川峨嵋电影3,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+v6四川峨嵋电影4,http://tv.328326.com/iptv/sxg.php?id=emdygqH265_4000
+电影1905,http://49.235.110.121:9090/daili/1905.php?id=1905
+电影1905-2,http://49.235.110.121:9090/daili/1905.php?id=1905-2
+CHC高清电影,http://49.235.110.121:9090/daili/cqyx.php?id=chcgq
+CHC动作电影,http://49.235.110.121:9090/daili/cqyx.php?id=chcdz
+CHC家庭影院,http://49.235.110.121:9090/daili/cqyx.php?id=chcjt
+云南影视,http://49.235.110.121:9090/daili/云南.php?id=ynys
+西安影视,http://49.235.110.121:9090/daili/xa.php?id=xays
+广州影视,http://49.235.110.121:9090/daili/gz.php?id=yingshi
+湖南电影,http://49.235.110.121:9090/daili/湖南.php?id=24
+湖北影视,http://49.235.110.121:9090/daili/hubei.php?id=hbys_1000
+吉林影视,http://49.235.110.121:9090/daili/电影.php?id=1
+长影频道,http://49.235.110.121:9090/daili/电影.php?id=2
+北京影视,http://49.235.110.121:9090/daili/电影.php?id=3
+天津影视HD,http://49.235.110.121:9090/daili/电影.php?id=10
+淘电影,http://49.235.110.121:9090/daili/电影.php?id=4
+家庭影院,http://49.235.110.121:9090/daili/电影.php?id=5
+精彩影视HD,http://49.235.110.121:9090/daili/电影.php?id=6
+超清影视HD,http://49.235.110.121:9090/daili/电影.php?id=7
+东方影视 8M,http://49.235.110.121:9090/daili/bestv.php?id=dfys
+新视觉 8M,http://49.235.110.121:9090/daili/bestv.php?id=xsj
+华语影院 8M,http://49.235.110.121:9090/daili/bestv.php?id=hyyy
+星光影院 8M,http://49.235.110.121:9090/daili/bestv.php?id=xgyy
+谍战剧场 8M,http://49.235.110.121:9090/daili/bestv.php?id=dzjc
+全球大片 8M,http://49.235.110.121:9090/daili/bestv.php?id=qqdp
+热门剧场 8M,http://49.235.110.121:9090/daili/bestv.php?id=rmjc
 CCTV1 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV2 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
 CCTV3 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
